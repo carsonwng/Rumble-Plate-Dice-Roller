@@ -1,4 +1,6 @@
 # Rumble Plate Dice Roller
+This project is an adapted version of the V2 Rumble Plate Dice Roller published by MMC. It was produced by a Queen's Engineering APSC 103 group, team 854-A. It's goals are to improve upon the original design, reducing noise, improving ergonomics, and improving reliability. 
+
 A switch adapted device to roll the dice for any game night!
 
 This switch activated dice roller utilizes a hobby motor, battery holder, Omron switch, and 3.5mm jack along with a couple 3d printed parts and a clear plastic cup to make any dice game more accessible. This device is a new development of the Dice Spinner that features faster dice rolling and variations in allowable cup size.
@@ -17,9 +19,9 @@ An AT switch can be plugged into the 3.5mm jack on the side of the device to be 
 # Required Components
 
  - Motor
- - AAA Battery Holder
+ - AA Battery Holder
  - Velcro
- - Omron Switch
+ - Abra Switch
  - 3.5mm Jack
  - Clear Plastic Cup
  - Dice
